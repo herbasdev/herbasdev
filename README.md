@@ -20,6 +20,7 @@ about.me
     interests: "Front End, UI/UX, Interaction Design, web 3D";
   }
 ```
+<br/>
 
 ## 🌱 Currently learning:
 <div style="display: inline_block"><br>
