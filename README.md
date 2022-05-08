@@ -3,6 +3,24 @@ Welcome! ┬┴┬┴┤･ω･)ノﾞ	     <img align=right src="https://gpvc.
 | <a href="https://github.com/herbasdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=herbasdev&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="herbasdev's github stats" /></a> | <a href="https://github.com/herbasdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbasdev&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<img src="https://www.nautiljon.com/images/anime/00/76/haibane_renmei_267.jpg"
+     alt="haibane renmei"
+     style="margin-top:20px;"
+     height="210px"
+     align="left" />
+
+```CSS
+about.me
+  {
+    name: "Leandro Herbas";
+    age: "21";
+    city: "Rio de Janeiro, Brazil";
+    education: "System Analysis and Development @ FAETERJ-Rio";
+    languages: "Portuguese, English";
+    interests: "Front End, UI/UX, Interaction Design, web 3D";
+  }
+```
+
 ## 🌱 Currently learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
