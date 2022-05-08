@@ -6,14 +6,14 @@ Welcome! ┬┴┬┴┤･ω･)ノﾞ	     <img align=right src="https://gpvc.
 <img src="https://www.nautiljon.com/images/anime/00/76/haibane_renmei_267.jpg"
      alt="haibane renmei"
      style="margin-top:20px;"
-     height="210px"
+     height="200px"
      align="left" />
 
 ```CSS
 about.me
   {
     name: "Leandro Herbas";
-    age: "21";
+    age: "20";
     city: "Rio de Janeiro, Brazil";
     education: "System Analysis and Development @ FAETERJ-Rio";
     languages: "Portuguese, English";
